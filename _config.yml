@@ -70,6 +70,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           This was a group project for my Evolutionary Computation class. We wanted to compare the algorithmic performance of neural networks and evolutionary algorithms compared to human players in Super Mario Bros. We learned a lot in regards to python and machine learning.
           Here's a short video too!
+      -layout: top-middle
           <iframe width="560" height="315" src="https://www.youtube.com/embed/hLj-fChO6UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       - layout: top-middle
         title: Style Sensei
