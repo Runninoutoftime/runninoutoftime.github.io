@@ -68,7 +68,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          I created this project with several other members in a graduate evolutionary computation class at UGA. We thought to compare how popular neural networks
+          This was a group project for my Evolutionary Computation class. We wanted to compare the algorithmic performance of neural networks and evolutionary algorithms compared to human players in Super Mario Bros. We learned a lot in regards to python and machine learning.
+          Here's a short video too!
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/hLj-fChO6UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       - layout: top-middle
         title: Style Sensei
         link: github.com/Runninoutoftime/UGAHacks
@@ -111,7 +113,7 @@ content:
         sub_title: Software Engineer Intern
         caption: May 2022 - Dec 2022
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          At my time as an intern in NCR, I developed solutions for handling the large amounts of data that NCR works with. I also came in 2nd in the company wide global hackathon!
       - layout: left
         title: University of Georgia - THINC Lab
         link: http://thinc.cs.uga.edu
@@ -128,7 +130,12 @@ content:
         caption: 2019 - 2023
         sub_title: BSc Computer Science
         description: | # this will include new lines to allow paragraphs
-          I spent my entire undergrad at UGA.
+          Clubs and Awards:
+          - Dean's List
+          - UGA Associate of Computing Machinery Club Member
+          - UGAHacks 7 winner
+          - Humans vs Zombies Club Member
+          - UGA Speed Networking Club Secretary
 
   - title: A Little More About Me
     layout: text
