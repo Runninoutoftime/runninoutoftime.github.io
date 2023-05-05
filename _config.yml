@@ -101,7 +101,7 @@ content:
           Many communities suffer from a lack of health data. This project aims to fix this.
         description: | # this will include new lines to allow paragraphs
           What happens when you combine streetview imagery with health data (like obesity rate, life expectancy, etc.) and machine learning? Well, the hope is we can predict accurate health information for communities that lack the proper information.
-          This project is still in progress, but we hope to have it finished by this July in time for (****) conference.
+          This project is still in progress, but we hope to have it finished by this July in time for AAAI conference.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
